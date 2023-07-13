@@ -1,0 +1,732 @@
+album_id,album_name,song_url,song_name,song_count
+1,"Greetings From Asbury Park, N.J.",/song:blinded-by-the-light,Blinded By The Light,1
+1,"Greetings From Asbury Park, N.J.",/song:growin-up,Growin' Up,2
+1,"Greetings From Asbury Park, N.J.",/song:mary-queen-of-arkansas,Mary Queen Of Arkansas,3
+1,"Greetings From Asbury Park, N.J.",/song:does-this-bus-stop-at-82nd-street,Does This Bus Stop At 82nd Street?,4
+1,"Greetings From Asbury Park, N.J.",/song:lost-in-the-flood,Lost In The Flood,5
+1,"Greetings From Asbury Park, N.J.",/song:the-angel,The Angel,6
+1,"Greetings From Asbury Park, N.J.",/song:for-you,For You,7
+1,"Greetings From Asbury Park, N.J.",/song:spirit-in-the-night,Spirit In The Night,8
+1,"Greetings From Asbury Park, N.J.",/song:it-s-hard-to-be-a-saint-in-the-city,It's Hard To Be A Saint In The City,9
+2,"The Wild, The Innocent & The E Street Shuffle",/song:the-e-street-shuffle,The E Street Shuffle,1
+2,"The Wild, The Innocent & The E Street Shuffle",/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",2
+2,"The Wild, The Innocent & The E Street Shuffle",/song:kitty-s-back,Kitty's Back,3
+2,"The Wild, The Innocent & The E Street Shuffle",/song:wild-billy-s-circus-story,Wild Billy's Circus Story,4
+2,"The Wild, The Innocent & The E Street Shuffle",/song:incident-on-57th-street,Incident On 57th Street,5
+2,"The Wild, The Innocent & The E Street Shuffle",/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),6
+2,"The Wild, The Innocent & The E Street Shuffle",/song:new-york-city-serenade,New York City Serenade,7
+3,Born To Run,/song:thunder-road,Thunder Road,1
+3,Born To Run,/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,2
+3,Born To Run,/song:night,Night,3
+3,Born To Run,/song:backstreets,Backstreets,4
+3,Born To Run,/song:born-to-run,Born To Run,5
+3,Born To Run,/song:she-s-the-one,She's The One,6
+3,Born To Run,/song:meeting-across-the-river,Meeting Across The River,7
+3,Born To Run,/song:jungleland,Jungleland,8
+4,Darkness On The Edge Of Town,/song:badlands,Badlands,1
+4,Darkness On The Edge Of Town,/song:adam-raised-a-cain,Adam Raised A Cain,2
+4,Darkness On The Edge Of Town,/song:something-in-the-night,Something In The Night,3
+4,Darkness On The Edge Of Town,/song:candy-s-room,Candy's Room,4
+4,Darkness On The Edge Of Town,/song:racing-in-the-street,Racing In The Street,5
+4,Darkness On The Edge Of Town,/song:the-promised-land,The Promised Land,6
+4,Darkness On The Edge Of Town,/song:factory,Factory,7
+4,Darkness On The Edge Of Town,/song:streets-of-fire,Streets Of Fire,8
+4,Darkness On The Edge Of Town,/song:prove-it-all-night,Prove It All Night,9
+4,Darkness On The Edge Of Town,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,10
+5,The River,/song:the-ties-that-bind,The Ties That Bind,1
+5,The River,/song:sherry-darling,Sherry Darling,2
+5,The River,/song:jackson-cage,Jackson Cage,3
+5,The River,/song:two-hearts,Two Hearts,4
+5,The River,/song:independence-day,Independence Day,5
+5,The River,/song:hungry-heart,Hungry Heart,6
+5,The River,/song:out-in-the-street,Out In The Street,7
+5,The River,/song:crush-on-you,Crush On You,8
+5,The River,/song:you-can-look-but-you-better-not-touch,You Can Look (But You Better Not Touch),9
+5,The River,/song:i-wanna-marry-you,I Wanna Marry You,10
+5,The River,/song:the-river,The River,11
+5,The River,/song:point-blank,Point Blank,12
+5,The River,/song:cadillac-ranch,Cadillac Ranch,13
+5,The River,/song:i-m-a-rocker,I'm A Rocker,14
+5,The River,/song:fade-away,Fade Away,15
+5,The River,/song:stolen-car,Stolen Car,16
+5,The River,/song:ramrod,Ramrod,17
+5,The River,/song:the-price-you-pay,The Price You Pay,18
+5,The River,/song:drive-all-night,Drive All Night,19
+5,The River,/song:wreck-on-the-highway,Wreck On The Highway,20
+6,Nebraska,/song:nebraska,Nebraska,1
+6,Nebraska,/song:atlantic-city,Atlantic City,2
+6,Nebraska,/song:mansion-on-the-hill,Mansion On The Hill,3
+6,Nebraska,/song:johnny-99,Johnny 99,4
+6,Nebraska,/song:highway-patrolman,Highway Patrolman,5
+6,Nebraska,/song:state-trooper,State Trooper,6
+6,Nebraska,/song:used-cars,Used Cars,7
+6,Nebraska,/song:open-all-night,Open All Night,8
+6,Nebraska,/song:my-father-s-house,My Father's House,9
+6,Nebraska,/song:reason-to-believe,Reason To Believe,10
+7,Born In The U.S.A.,/song:born-in-the-u-s-a,Born In The U.S.A.,1
+7,Born In The U.S.A.,/song:cover-me,Cover Me,2
+7,Born In The U.S.A.,/song:darlington-county,Darlington County,3
+7,Born In The U.S.A.,/song:working-on-the-highway,Working On The Highway,4
+7,Born In The U.S.A.,/song:downbound-train,Downbound Train,5
+7,Born In The U.S.A.,/song:i-m-on-fire,I'm On Fire,6
+7,Born In The U.S.A.,/song:no-surrender,No Surrender,7
+7,Born In The U.S.A.,/song:bobby-jean,Bobby Jean,8
+7,Born In The U.S.A.,/song:i-m-goin-down,I'm Goin' Down,9
+7,Born In The U.S.A.,/song:glory-days,Glory Days,10
+7,Born In The U.S.A.,/song:dancing-in-the-dark,Dancing In The Dark,11
+7,Born In The U.S.A.,/song:my-hometown,My Hometown,12
+8,Tunnel Of Love,/song:ain-t-got-you,Ain't Got You,1
+8,Tunnel Of Love,/song:tougher-than-the-rest,Tougher Than The Rest,2
+8,Tunnel Of Love,/song:all-that-heaven-will-allow,All That Heaven Will Allow,3
+8,Tunnel Of Love,/song:spare-parts,Spare Parts,4
+8,Tunnel Of Love,/song:cautious-man,Cautious Man,5
+8,Tunnel Of Love,/song:walk-like-a-man,Walk Like A Man,6
+8,Tunnel Of Love,/song:tunnel-of-love,Tunnel Of Love,7
+8,Tunnel Of Love,/song:two-faces,Two Faces,8
+8,Tunnel Of Love,/song:brilliant-disguise,Brilliant Disguise,9
+8,Tunnel Of Love,/song:one-step-up,One Step Up,10
+8,Tunnel Of Love,/song:when-you-re-alone,When You're Alone,11
+8,Tunnel Of Love,/song:valentine-s-day,Valentine's Day,12
+9,Human Touch,/song:human-touch,Human Touch,1
+9,Human Touch,/song:soul-driver,Soul Driver,2
+9,Human Touch,/song:57-channels-and-nothin-on,57 Channels (And Nothin' On),3
+9,Human Touch,/song:cross-my-heart,Cross My Heart,4
+9,Human Touch,/song:gloria-s-eyes,Gloria's Eyes,5
+9,Human Touch,/song:with-every-wish,With Every Wish,6
+9,Human Touch,/song:roll-of-the-dice,Roll Of The Dice,7
+9,Human Touch,/song:real-world,Real World,8
+9,Human Touch,/song:all-or-nothin-at-all,All Or Nothin' At All,9
+9,Human Touch,/song:man-s-job,Man's Job,10
+9,Human Touch,/song:i-wish-i-were-blind,I Wish I Were Blind,11
+9,Human Touch,/song:the-long-goodbye,The Long Goodbye,12
+9,Human Touch,/song:real-man,Real Man,13
+9,Human Touch,/song:pony-boy,Pony Boy,14
+10,Lucky Town,/song:better-days,Better Days,1
+10,Lucky Town,/song:lucky-town,Lucky Town,2
+10,Lucky Town,/song:local-hero,Local Hero,3
+10,Lucky Town,/song:if-i-should-fall-behind,If I Should Fall Behind,4
+10,Lucky Town,/song:leap-of-faith,Leap Of Faith,5
+10,Lucky Town,/song:the-big-muddy,The Big Muddy,6
+10,Lucky Town,/song:living-proof,Living Proof,7
+10,Lucky Town,/song:book-of-dreams,Book Of Dreams,8
+10,Lucky Town,/song:souls-of-the-departed,Souls Of The Departed,9
+10,Lucky Town,/song:my-beautiful-reward,My Beautiful Reward,10
+11,The Ghost Of Tom Joad,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,1
+11,The Ghost Of Tom Joad,/song:straight-time,Straight Time,2
+11,The Ghost Of Tom Joad,/song:highway-29,Highway 29,3
+11,The Ghost Of Tom Joad,/song:youngstown,Youngstown,4
+11,The Ghost Of Tom Joad,/song:sinaloa-cowboys,Sinaloa Cowboys,5
+11,The Ghost Of Tom Joad,/song:the-line,The Line,6
+11,The Ghost Of Tom Joad,/song:balboa-park,Balboa Park,7
+11,The Ghost Of Tom Joad,/song:dry-lightning,Dry Lightning,8
+11,The Ghost Of Tom Joad,/song:the-new-timer,The New Timer,9
+11,The Ghost Of Tom Joad,/song:across-the-border,Across The Border,10
+11,The Ghost Of Tom Joad,/song:galveston-bay,Galveston Bay,11
+11,The Ghost Of Tom Joad,/song:my-best-was-never-good-enough,My Best Was Never Good Enough,12
+12,The Rising,/song:lonesome-day,Lonesome Day,1
+12,The Rising,/song:into-the-fire,Into The Fire,2
+12,The Rising,/song:waitin-on-a-sunny-day,Waitin' On A Sunny Day,3
+12,The Rising,/song:nothing-man,Nothing Man,4
+12,The Rising,/song:countin-on-a-miracle,Countin' On A Miracle,5
+12,The Rising,/song:empty-sky,Empty Sky,6
+12,The Rising,/song:worlds-apart,Worlds Apart,7
+12,The Rising,/song:let-s-be-friends-skin-to-skin,Let's Be Friends (Skin To Skin),8
+12,The Rising,/song:further-on-up-the-road,Further On (Up The Road),9
+12,The Rising,/song:the-fuse,The Fuse,10
+12,The Rising,/song:mary-s-place,Mary's Place,11
+12,The Rising,/song:you-re-missing,You're Missing,12
+12,The Rising,/song:the-rising,The Rising,13
+12,The Rising,/song:paradise,Paradise,14
+12,The Rising,/song:my-city-of-ruins,My City Of Ruins,15
+13,Devils & Dust,/song:devils-dust,Devils & Dust,1
+13,Devils & Dust,/song:all-the-way-home,All The Way Home,2
+13,Devils & Dust,/song:reno,Reno,3
+13,Devils & Dust,/song:long-time-comin,Long Time Comin',4
+13,Devils & Dust,/song:black-cowboys,Black Cowboys,5
+13,Devils & Dust,/song:maria-s-bed,Maria's Bed,6
+13,Devils & Dust,/song:silver-palomino,Silver Palomino,7
+13,Devils & Dust,/song:jesus-was-an-only-son,Jesus Was An Only Son,8
+13,Devils & Dust,/song:leah,Leah,9
+13,Devils & Dust,/song:the-hitter,The Hitter,10
+13,Devils & Dust,/song:all-i-m-thinkin-about,All I'm Thinkin' About,11
+13,Devils & Dust,/song:matamoros-banks,Matamoros Banks,12
+14,We Shall Overcome,/song:old-dan-tucker,Old Dan Tucker,1
+14,We Shall Overcome,/song:buffalo-gals,Buffalo Gals,2
+14,We Shall Overcome,/song:jesse-james,Jesse James,3
+14,We Shall Overcome,/song:how-can-i-keep-from-singing,How Can I Keep From Singing?,4
+14,We Shall Overcome,/song:mrs-mcgrath,Mrs. McGrath,5
+14,We Shall Overcome,/song:how-can-a-poor-man-stand-such-times-and-live,How Can A Poor Man Stand Such Times And Live?,6
+14,We Shall Overcome,/song:o-mary-don-t-you-weep,O Mary Don't You Weep,7
+14,We Shall Overcome,/song:bring-em-home,Bring 'Em Home,8
+14,We Shall Overcome,/song:john-henry,John Henry,9
+14,We Shall Overcome,/song:american-land,American Land,10
+14,We Shall Overcome,/song:erie-canal,Erie Canal,11
+14,We Shall Overcome,/song:jacob-s-ladder,Jacob's Ladder,12
+14,We Shall Overcome,/song:my-oklahoma-home,My Oklahoma Home,13
+14,We Shall Overcome,/song:eyes-on-the-prize,Eyes On The Prize,14
+14,We Shall Overcome,/song:shenandoah,Shenandoah,15
+14,We Shall Overcome,/song:pay-me-my-money-down,Pay Me My Money Down,16
+14,We Shall Overcome,/song:we-shall-overcome,We Shall Overcome,17
+14,We Shall Overcome,/song:froggie-went-a-courtin,Froggie Went A-Courtin',18
+15,Magic,/song:radio-nowhere,Radio Nowhere,1
+15,Magic,/song:you-ll-be-comin-down,You'll Be Comin' Down,2
+15,Magic,/song:livin-in-the-future,Livin' In The Future,3
+15,Magic,/song:your-own-worst-enemy,Your Own Worst Enemy,4
+15,Magic,/song:gypsy-biker,Gypsy Biker,5
+15,Magic,/song:girls-in-their-summer-clothes,Girls In Their Summer Clothes,6
+15,Magic,/song:i-ll-work-for-your-love,I'll Work For Your Love,7
+15,Magic,/song:magic,Magic,8
+15,Magic,/song:last-to-die,Last To Die,9
+15,Magic,/song:long-walk-home,Long Walk Home,10
+15,Magic,/song:devil-s-arcade,Devil's Arcade,11
+15,Magic,/song:terry-s-song,Terry's Song,12
+16,Working On A Dream,/song:outlaw-pete,Outlaw Pete,1
+16,Working On A Dream,/song:my-lucky-day,My Lucky Day,2
+16,Working On A Dream,/song:working-on-a-dream,Working On A Dream,3
+16,Working On A Dream,/song:queen-of-the-supermarket,Queen Of The Supermarket,4
+16,Working On A Dream,/song:what-love-can-do,What Love Can Do,5
+16,Working On A Dream,/song:this-life,This Life,6
+16,Working On A Dream,/song:good-eye,Good Eye,7
+16,Working On A Dream,/song:tomorrow-never-knows,Tomorrow Never Knows,8
+16,Working On A Dream,/song:life-itself,Life Itself,9
+16,Working On A Dream,/song:kingdom-of-days,Kingdom Of Days,10
+16,Working On A Dream,/song:surprise-surprise,"Surprise, Surprise",11
+16,Working On A Dream,/song:the-last-carnival,The Last Carnival,12
+16,Working On A Dream,/song:the-wrestler,The Wrestler,13
+16,Working On A Dream,/song:a-night-with-the-jersey-devil,A Night With The Jersey Devil,14
+17,Wrecking Ball,/song:we-take-care-of-our-own,We Take Care Of Our Own,1
+17,Wrecking Ball,/song:easy-money,Easy Money,2
+17,Wrecking Ball,/song:shackled-and-drawn,Shackled And Drawn,3
+17,Wrecking Ball,/song:jack-of-all-trades,Jack Of All Trades,4
+17,Wrecking Ball,/song:death-to-my-hometown,Death To My Hometown,5
+17,Wrecking Ball,/song:this-depression,This Depression,6
+17,Wrecking Ball,/song:wrecking-ball,Wrecking Ball,7
+17,Wrecking Ball,/song:you-ve-got-it,You've Got It,8
+17,Wrecking Ball,/song:rocky-ground,Rocky Ground,9
+17,Wrecking Ball,/song:land-of-hope-and-dreams,Land Of Hope And Dreams,10
+17,Wrecking Ball,/song:we-are-alive,We Are Alive,11
+17,Wrecking Ball,/song:swallowed-up-in-the-belly-of-the-whale,Swallowed Up (In The Belly Of The Whale),12
+17,Wrecking Ball,/song:american-land,American Land,13
+18,High Hopes,/song:high-hopes,High Hopes,1
+18,High Hopes,/song:harry-s-place,Harry's Place,2
+18,High Hopes,/song:american-skin-41-shots,American Skin (41 Shots),3
+18,High Hopes,/song:just-like-fire-would,Just Like Fire Would,4
+18,High Hopes,/song:down-in-the-hole,Down In The Hole,5
+18,High Hopes,/song:heaven-s-wall,Heaven's Wall,6
+18,High Hopes,/song:frankie-fell-in-love,Frankie Fell In Love,7
+18,High Hopes,/song:this-is-your-sword,This Is Your Sword,8
+18,High Hopes,/song:hunter-of-invisible-game,Hunter Of Invisible Game,9
+18,High Hopes,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,10
+18,High Hopes,/song:the-wall,The Wall,11
+18,High Hopes,/song:dream-baby-dream,Dream Baby Dream,12
+19,American Beauty EP,/song:american-beauty,American Beauty,1
+19,American Beauty EP,/song:mary-mary,Mary Mary,2
+19,American Beauty EP,/song:hurry-up-sundown,Hurry Up Sundown,3
+19,American Beauty EP,/song:hey-blue-eyes,Hey Blue Eyes,4
+20,Western Stars,/song:hitch-hikin,Hitch Hikin',1
+20,Western Stars,/song:the-wayfarer,The Wayfarer,2
+20,Western Stars,/song:tucson-train,Tucson Train,3
+20,Western Stars,/song:western-stars,Western Stars,4
+20,Western Stars,/song:sleepy-joe-s-cafe,Sleepy Joe's Café,5
+20,Western Stars,/song:drive-fast-the-stuntman,Drive Fast (The Stuntman),6
+20,Western Stars,/song:chasin-wild-horses,Chasin' Wild Horses,7
+20,Western Stars,/song:sundown,Sundown,8
+20,Western Stars,/song:somewhere-north-of-nashville,Somewhere North Of Nashville,9
+20,Western Stars,/song:stones,Stones,10
+20,Western Stars,/song:there-goes-my-miracle,There Goes My Miracle,11
+20,Western Stars,/song:hello-sunshine,Hello Sunshine,12
+20,Western Stars,/song:moonlight-motel,Moonlight Motel,13
+21,Letter To You,/song:one-minute-you-re-here,One Minute You're Here,1
+21,Letter To You,/song:letter-to-you,Letter To You,2
+21,Letter To You,/song:burnin-train,Burnin' Train,3
+21,Letter To You,/song:janey-needs-a-shooter,Janey Needs A Shooter,4
+21,Letter To You,/song:last-man-standing,Last Man Standing,5
+21,Letter To You,/song:the-power-of-prayer,The Power Of Prayer,6
+21,Letter To You,/song:house-of-a-thousand-guitars,House Of A Thousand Guitars,7
+21,Letter To You,/song:rainmaker,Rainmaker,8
+21,Letter To You,/song:if-i-was-the-priest,If I Was The Priest,9
+21,Letter To You,/song:ghosts,Ghosts,10
+21,Letter To You,/song:song-for-orphans,Song For Orphans,11
+21,Letter To You,/song:i-ll-see-you-in-my-dreams,I'll See You In My Dreams,12
+22,Only The Strong Survive,/song:only-the-strong-survive,Only The Strong Survive,1
+22,Only The Strong Survive,/song:soul-days,Soul Days,2
+22,Only The Strong Survive,/song:nightshift,Nightshift,3
+22,Only The Strong Survive,/song:do-i-love-you-indeed-i-do,Do I Love You (Indeed I Do),4
+22,Only The Strong Survive,/song:the-sun-ain-t-gonna-shine-anymore,The Sun Ain't Gonna Shine Anymore,5
+22,Only The Strong Survive,/song:turn-back-the-hands-of-time,Turn Back The Hands Of Time,6
+22,Only The Strong Survive,/song:when-she-was-my-girl,When She Was My Girl,7
+22,Only The Strong Survive,/song:hey-western-union-man,"Hey, Western Union Man",8
+22,Only The Strong Survive,/song:i-wish-it-would-rain,I Wish It Would Rain,9
+22,Only The Strong Survive,/song:don-t-play-that-song,Don't Play That Song,10
+22,Only The Strong Survive,/song:any-other-way,Any Other Way,11
+22,Only The Strong Survive,/song:i-forgot-to-be-your-lover,I Forgot To Be Your Lover,12
+22,Only The Strong Survive,/song:7-rooms-of-gloom,7 Rooms Of Gloom,13
+22,Only The Strong Survive,/song:what-becomes-of-the-brokenhearted,What Becomes Of The Brokenhearted,14
+22,Only The Strong Survive,/song:someday-we-ll-be-together,Someday We'll Be Together,15
+24,Greatest Hits,/song:born-to-run,Born To Run,1
+24,Greatest Hits,/song:thunder-road,Thunder Road,2
+24,Greatest Hits,/song:badlands,Badlands,3
+24,Greatest Hits,/song:the-river,The River,4
+24,Greatest Hits,/song:hungry-heart,Hungry Heart,5
+24,Greatest Hits,/song:atlantic-city,Atlantic City,6
+24,Greatest Hits,/song:dancing-in-the-dark,Dancing In The Dark,7
+24,Greatest Hits,/song:born-in-the-u-s-a,Born In The U.S.A.,8
+24,Greatest Hits,/song:my-hometown,My Hometown,9
+24,Greatest Hits,/song:glory-days,Glory Days,10
+24,Greatest Hits,/song:brilliant-disguise,Brilliant Disguise,11
+24,Greatest Hits,/song:human-touch,Human Touch,12
+24,Greatest Hits,/song:better-days,Better Days,13
+24,Greatest Hits,/song:streets-of-philadelphia,Streets Of Philadelphia,14
+24,Greatest Hits,/song:secret-garden,Secret Garden,15
+24,Greatest Hits,/song:murder-incorporated,Murder Incorporated,16
+24,Greatest Hits,/song:blood-brothers,Blood Brothers,17
+24,Greatest Hits,/song:this-hard-land,This Hard Land,18
+25,Blood Brothers EP,/song:blood-brothers,Blood Brothers,1
+25,Blood Brothers EP,/song:high-hopes,High Hopes,2
+25,Blood Brothers EP,/song:murder-incorporated,Murder Incorporated,3
+25,Blood Brothers EP,/song:secret-garden,Secret Garden,4
+25,Blood Brothers EP,/song:without-you,Without You,5
+26,Tracks,/song:mary-queen-of-arkansas,Mary Queen Of Arkansas,1
+26,Tracks,/song:it-s-hard-to-be-a-saint-in-the-city,It's Hard To Be A Saint In The City,2
+26,Tracks,/song:growin-up,Growin' Up,3
+26,Tracks,/song:does-this-bus-stop-at-82nd-street,Does This Bus Stop At 82nd Street?,4
+26,Tracks,/song:bishop-danced,Bishop Danced,5
+26,Tracks,/song:santa-ana,Santa Ana,6
+26,Tracks,/song:seaside-bar-song,Seaside Bar Song,7
+26,Tracks,/song:zero-and-blind-terry,Zero And Blind Terry,8
+26,Tracks,/song:linda-let-me-be-the-one,Linda Let Me Be The One,9
+26,Tracks,/song:thundercrack,Thundercrack,10
+26,Tracks,/song:rendezvous,Rendezvous,11
+26,Tracks,/song:give-the-girl-a-kiss,Give The Girl A Kiss,12
+26,Tracks,/song:iceman,Iceman,13
+26,Tracks,/song:bring-on-the-night,Bring On The Night,14
+26,Tracks,/song:so-young-and-in-love,So Young And In Love,15
+26,Tracks,/song:hearts-of-stone,Hearts Of Stone,16
+26,Tracks,/song:don-t-look-back,Don't Look Back,17
+26,Tracks,/song:restless-nights,Restless Nights,18
+26,Tracks,/song:a-good-man-is-hard-to-find-pittsburgh,A Good Man Is Hard To Find (Pittsburgh),19
+26,Tracks,/song:roulette,Roulette,20
+26,Tracks,/song:dollhouse,Dollhouse,21
+26,Tracks,/song:where-the-bands-are,Where The Bands Are,22
+26,Tracks,/song:loose-ends,Loose Ends,23
+26,Tracks,/song:living-on-the-edge-of-the-world,Living On The Edge Of The World,24
+26,Tracks,/song:wages-of-sin,Wages Of Sin,25
+26,Tracks,/song:take-em-as-they-come,Take 'Em As They Come,26
+26,Tracks,/song:be-true,Be True,27
+26,Tracks,/song:ricky-wants-a-man-of-her-own,Ricky Wants A Man Of Her Own,28
+26,Tracks,/song:i-wanna-be-with-you,I Wanna Be With You,29
+26,Tracks,/song:mary-lou,Mary Lou,30
+26,Tracks,/song:stolen-car-vs-1,Stolen Car (Vs. 1),31
+26,Tracks,/song:born-in-the-u-s-a,Born In The U.S.A.,32
+26,Tracks,/song:johnny-bye-bye,Johnny Bye-Bye,33
+26,Tracks,/song:shut-out-the-light,Shut Out The Light,34
+26,Tracks,/song:cynthia,Cynthia,35
+26,Tracks,/song:my-love-will-not-let-you-down,My Love Will Not Let You Down,36
+26,Tracks,/song:this-hard-land,This Hard Land,37
+26,Tracks,/song:frankie,Frankie,38
+26,Tracks,/song:tv-movie,TV Movie,39
+26,Tracks,/song:stand-on-it,Stand On It,40
+26,Tracks,/song:lion-s-den,Lion's Den,41
+26,Tracks,/song:car-wash,Car Wash,42
+26,Tracks,/song:rockaway-the-days,Rockaway The Days,43
+26,Tracks,/song:brothers-under-the-bridges-83,Brothers Under The Bridges ('83),44
+26,Tracks,/song:man-at-the-top,Man At The Top,45
+26,Tracks,/song:pink-cadillac,Pink Cadillac,46
+26,Tracks,/song:two-for-the-road,Two For The Road,47
+26,Tracks,/song:janey-don-t-you-lose-heart,"Janey, Don't You Lose Heart",48
+26,Tracks,/song:when-you-need-me,When You Need Me,49
+26,Tracks,/song:the-wish,The Wish,50
+26,Tracks,/song:the-honeymooners,The Honeymooners,51
+26,Tracks,/song:lucky-man,Lucky Man,52
+26,Tracks,/song:leavin-train,Leavin' Train,53
+26,Tracks,/song:seven-angels,Seven Angels,54
+26,Tracks,/song:gave-it-a-name,Gave It A Name,55
+26,Tracks,/song:sad-eyes,Sad Eyes,56
+26,Tracks,/song:my-lover-man,My Lover Man,57
+26,Tracks,/song:over-the-rise,Over The Rise,58
+26,Tracks,/song:when-the-lights-go-out,When The Lights Go Out,59
+26,Tracks,/song:loose-change,Loose Change,60
+26,Tracks,/song:trouble-in-paradise,Trouble In Paradise,61
+26,Tracks,/song:happy,Happy,62
+26,Tracks,/song:part-man-part-monkey,"Part Man, Part Monkey",63
+26,Tracks,/song:goin-cali,Goin' Cali,64
+26,Tracks,/song:back-in-your-arms,Back In Your Arms,65
+26,Tracks,/song:brothers-under-the-bridge,Brothers Under The Bridge,66
+27,18 Tracks,/song:growin-up,Growin' Up,1
+27,18 Tracks,/song:seaside-bar-song,Seaside Bar Song,2
+27,18 Tracks,/song:rendezvous,Rendezvous,3
+27,18 Tracks,/song:hearts-of-stone,Hearts Of Stone,4
+27,18 Tracks,/song:where-the-bands-are,Where The Bands Are,5
+27,18 Tracks,/song:loose-ends,Loose Ends,6
+27,18 Tracks,/song:i-wanna-be-with-you,I Wanna Be With You,7
+27,18 Tracks,/song:born-in-the-u-s-a,Born In The U.S.A.,8
+27,18 Tracks,/song:my-love-will-not-let-you-down,My Love Will Not Let You Down,9
+27,18 Tracks,/song:lion-s-den,Lion's Den,10
+27,18 Tracks,/song:pink-cadillac,Pink Cadillac,11
+27,18 Tracks,/song:janey-don-t-you-lose-heart,"Janey, Don't You Lose Heart",12
+27,18 Tracks,/song:sad-eyes,Sad Eyes,13
+27,18 Tracks,/song:part-man-part-monkey,"Part Man, Part Monkey",14
+27,18 Tracks,/song:trouble-river,Trouble River,15
+27,18 Tracks,/song:brothers-under-the-bridge,Brothers Under The Bridge,16
+27,18 Tracks,/song:the-fever,The Fever,17
+27,18 Tracks,/song:the-promise,The Promise,18
+28,The Essential,/song:blinded-by-the-light,Blinded By The Light,1
+28,The Essential,/song:from-small-things-big-things-one-day-come,From Small Things (Big Things One Day Come),2
+28,The Essential,/song:for-you,For You,3
+28,The Essential,/song:the-big-payback,The Big Payback,4
+28,The Essential,/song:spirit-in-the-night,Spirit In The Night,5
+28,The Essential,/song:held-up-without-a-gun,Held Up Without A Gun,6
+28,The Essential,/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",7
+28,The Essential,/song:trapped,Trapped,8
+28,The Essential,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),9
+28,The Essential,/song:none-but-the-brave,None But The Brave,10
+28,The Essential,/song:thunder-road,Thunder Road,11
+28,The Essential,/song:missing,Missing,12
+28,The Essential,/song:born-to-run,Born To Run,13
+28,The Essential,/song:lift-me-up,Lift Me Up,14
+28,The Essential,/song:jungleland,Jungleland,15
+28,The Essential,/song:viva-las-vegas,Viva Las Vegas,16
+28,The Essential,/song:badlands,Badlands,17
+28,The Essential,/song:county-fair,County Fair,18
+28,The Essential,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,19
+28,The Essential,/song:code-of-silence,Code Of Silence,20
+28,The Essential,/song:the-promised-land,The Promised Land,21
+28,The Essential,/song:dead-man-walkin,Dead Man Walkin’,22
+28,The Essential,/song:the-river,The River,23
+28,The Essential,/song:countin-on-a-miracle,Countin’ On A Miracle,24
+28,The Essential,/song:hungry-heart,Hungry Heart,25
+28,The Essential,/song:nebraska,Nebraska,26
+28,The Essential,/song:atlantic-city,Atlantic City,27
+28,The Essential,/song:born-in-the-u-s-a,Born In The U.S.A.,28
+28,The Essential,/song:glory-days,Glory Days,29
+28,The Essential,/song:dancing-in-the-dark,Dancing In The Dark,30
+28,The Essential,/song:tunnel-of-love,Tunnel Of Love,31
+28,The Essential,/song:brilliant-disguise,Brilliant Disguise,32
+28,The Essential,/song:human-touch,Human Touch,33
+28,The Essential,/song:living-proof,Living Proof,34
+28,The Essential,/song:lucky-town,Lucky Town,35
+28,The Essential,/song:streets-of-philadelphia,Streets Of Philadelphia,36
+28,The Essential,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,37
+28,The Essential,/song:the-rising,The Rising,38
+28,The Essential,/song:mary-s-place,Mary's Place,39
+28,The Essential,/song:lonesome-day,Lonesome Day,40
+28,The Essential,/song:american-skin-41-shots,American Skin (41 Shots),41
+28,The Essential,/song:land-of-hope-and-dreams,Land Of Hope And Dreams,42
+28,The Essential,/song:growin-up,Growin' Up,43
+28,The Essential,/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,48
+28,The Essential,/song:prove-it-all-night,Prove It All Night,51
+28,The Essential,/song:the-ties-that-bind,The Ties That Bind,54
+28,The Essential,/song:out-in-the-street,Out In The Street,55
+28,The Essential,/song:johnny-99,Johnny 99,57
+28,The Essential,/song:tougher-than-the-rest,Tougher Than The Rest,61
+28,The Essential,/song:one-step-up,One Step Up,63
+28,The Essential,/song:better-days,Better Days,65
+28,The Essential,/song:if-i-should-fall-behind,If I Should Fall Behind,66
+28,The Essential,/song:murder-incorporated,Murder Incorporated,68
+28,The Essential,/song:devils-dust,Devils & Dust,72
+28,The Essential,/song:long-time-comin,Long Time Comin',73
+28,The Essential,/song:radio-nowhere,Radio Nowhere,74
+28,The Essential,/song:working-on-a-dream,Working On A Dream,75
+28,The Essential,/song:my-lucky-day,My Lucky Day,76
+28,The Essential,/song:the-wrestler,The Wrestler,77
+28,The Essential,/song:we-take-care-of-our-own,We Take Care Of Our Own,78
+28,The Essential,/song:hunter-of-invisible-game,Hunter Of Invisible Game,79
+29,Greatest Hits '09,/song:blinded-by-the-light,Blinded By The Light,1
+29,Greatest Hits '09,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),2
+29,Greatest Hits '09,/song:born-to-run,Born To Run,4
+29,Greatest Hits '09,/song:thunder-road,Thunder Road,6
+29,Greatest Hits '09,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,8
+29,Greatest Hits '09,/song:badlands,Badlands,9
+29,Greatest Hits '09,/song:hungry-heart,Hungry Heart,12
+29,Greatest Hits '09,/song:glory-days,Glory Days,14
+29,Greatest Hits '09,/song:the-river,The River,15
+29,Greatest Hits '09,/song:dancing-in-the-dark,Dancing In The Dark,16
+29,Greatest Hits '09,/song:born-in-the-u-s-a,Born In The U.S.A.,17
+29,Greatest Hits '09,/song:i-m-on-fire,I'm On Fire,19
+29,Greatest Hits '09,/song:the-rising,The Rising,20
+29,Greatest Hits '09,/song:lonesome-day,Lonesome Day,22
+29,Greatest Hits '09,/song:radio-nowhere,Radio Nowhere,24
+29,Greatest Hits '09,/song:long-walk-home,Long Walk Home,28
+29,Greatest Hits '09,/song:because-the-night,Because The Night,29
+29,Greatest Hits '09,/song:fire,Fire,30
+30,The Promise,/song:racing-in-the-street-78,Racing In The Street ('78),1
+30,The Promise,/song:gotta-get-that-feeling,Gotta Get That Feeling,2
+30,The Promise,/song:outside-looking-in,Outside Looking In,3
+30,The Promise,/song:someday-we-ll-be-together,Someday (We'll Be Together),4
+30,The Promise,/song:one-way-street,One Way Street,5
+30,The Promise,/song:because-the-night,Because The Night,6
+30,The Promise,/song:wrong-side-of-the-street,Wrong Side Of The Street,7
+30,The Promise,/song:the-brokenhearted,The Brokenhearted,8
+30,The Promise,/song:rendezvous,Rendezvous,9
+30,The Promise,/song:candy-s-boy,Candy's Boy,10
+30,The Promise,/song:save-my-love,Save My Love,11
+30,The Promise,/song:ain-t-good-enough-for-you,Ain't Good Enough For You,12
+30,The Promise,/song:fire,Fire,13
+30,The Promise,/song:spanish-eyes,Spanish Eyes,14
+30,The Promise,/song:it-s-a-shame,It's A Shame,15
+30,The Promise,/song:come-on-let-s-go-tonight,Come On (Let's Go Tonight),16
+30,The Promise,/song:talk-to-me,Talk To Me,17
+30,The Promise,/song:the-little-things-my-baby-does,The Little Things (My Baby Does),18
+30,The Promise,/song:breakaway,Breakaway,19
+30,The Promise,/song:the-promise,The Promise,20
+30,The Promise,/song:city-of-night,City Of Night,21
+30,The Promise,/song:the-way,The Way,22
+31,Collection: 1973-2012,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),1
+31,Collection: 1973-2012,/song:thunder-road,Thunder Road,2
+31,Collection: 1973-2012,/song:born-to-run,Born To Run,3
+31,Collection: 1973-2012,/song:badlands,Badlands,4
+31,Collection: 1973-2012,/song:the-promised-land,The Promised Land,5
+31,Collection: 1973-2012,/song:hungry-heart,Hungry Heart,6
+31,Collection: 1973-2012,/song:atlantic-city,Atlantic City,7
+31,Collection: 1973-2012,/song:born-in-the-u-s-a,Born In The U.S.A.,8
+31,Collection: 1973-2012,/song:dancing-in-the-dark,Dancing In The Dark,9
+31,Collection: 1973-2012,/song:brilliant-disguise,Brilliant Disguise,10
+31,Collection: 1973-2012,/song:human-touch,Human Touch,11
+31,Collection: 1973-2012,/song:streets-of-philadelphia,Streets Of Philadelphia,12
+31,Collection: 1973-2012,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,13
+31,Collection: 1973-2012,/song:the-rising,The Rising,14
+31,Collection: 1973-2012,/song:radio-nowhere,Radio Nowhere,15
+31,Collection: 1973-2012,/song:working-on-a-dream,Working On A Dream,16
+31,Collection: 1973-2012,/song:we-take-care-of-our-own,We Take Care Of Our Own,17
+31,Collection: 1973-2012,/song:wrecking-ball,Wrecking Ball,18
+32,The Ties That Bind,/song:meet-me-in-the-city,Meet Me In The City,1
+32,The Ties That Bind,/song:the-ties-that-bind,The Ties That Bind,2
+32,The Ties That Bind,/song:the-man-who-got-away,The Man Who Got Away,3
+32,The Ties That Bind,/song:cindy,Cindy,4
+32,The Ties That Bind,/song:little-white-lies,Little White Lies,5
+32,The Ties That Bind,/song:hungry-heart,Hungry Heart,6
+32,The Ties That Bind,/song:the-time-that-never-was,The Time That Never Was,7
+32,The Ties That Bind,/song:stolen-car-vs-1,Stolen Car (Vs. 1),8
+32,The Ties That Bind,/song:night-fire,Night Fire,9
+32,The Ties That Bind,/song:be-true,To Be True,10
+32,The Ties That Bind,/song:whitetown,Whitetown,11
+32,The Ties That Bind,/song:the-river,The River,12
+32,The Ties That Bind,/song:chain-lightning,Chain Lightning,13
+32,The Ties That Bind,/song:you-can-look-but-you-better-not-touch-vs-1,You Can Look (But You Better Not Touch) (Vs. 1),14
+32,The Ties That Bind,/song:party-lights,Party Lights,15
+32,The Ties That Bind,/song:the-price-you-pay,The Price You Pay,16
+32,The Ties That Bind,/song:paradise-by-the-c,"Paradise By The ""C""",17
+32,The Ties That Bind,/song:i-wanna-marry-you,I Wanna Marry You,18
+32,The Ties That Bind,/song:stray-bullet,Stray Bullet,19
+32,The Ties That Bind,/song:loose-ends,Loose End,20
+32,The Ties That Bind,/song:mr-outside,Mr. Outside,21
+32,The Ties That Bind,/song:roulette,Roulette,22
+32,The Ties That Bind,/song:restless-nights,Restless Nights,23
+32,The Ties That Bind,/song:where-the-bands-are,Where The Bands Are,24
+32,The Ties That Bind,/song:dollhouse,Dollhouse,25
+32,The Ties That Bind,/song:living-on-the-edge-of-the-world,Living On The Edge Of The World,26
+32,The Ties That Bind,/song:take-em-as-they-come,Take 'Em As They Come,27
+32,The Ties That Bind,/song:ricky-wants-a-man-of-her-own,Ricky Wants A Man Of Her Own,28
+32,The Ties That Bind,/song:i-wanna-be-with-you,I Wanna Be With You,29
+32,The Ties That Bind,/song:mary-lou,Mary Lou,30
+32,The Ties That Bind,/song:held-up-without-a-gun,Held Up Without A Gun,31
+32,The Ties That Bind,/song:from-small-things-big-things-one-day-come,From Small Things (Big Things One Day Come),32
+33,Chapter And Verse,/song:baby-i,Baby I,1
+33,Chapter And Verse,/song:you-can-t-judge-a-book-by-the-cover,You Can't Judge A Book By The Cover,2
+33,Chapter And Verse,/song:he-s-guilty-the-judge-song,He's Guilty (The Judge Song),3
+33,Chapter And Verse,/song:the-ballad-of-jesse-james,The Ballad Of Jesse James,4
+33,Chapter And Verse,/song:henry-boy,Henry Boy,5
+33,Chapter And Verse,/song:growin-up,Growin' Up,6
+33,Chapter And Verse,/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",7
+33,Chapter And Verse,/song:born-to-run,Born To Run,8
+33,Chapter And Verse,/song:badlands,Badlands,9
+33,Chapter And Verse,/song:the-river,The River,10
+33,Chapter And Verse,/song:my-father-s-house,My Father's House,11
+33,Chapter And Verse,/song:born-in-the-u-s-a,Born In The U.S.A.,12
+33,Chapter And Verse,/song:brilliant-disguise,Brilliant Disguise,13
+33,Chapter And Verse,/song:living-proof,Living Proof,14
+33,Chapter And Verse,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,15
+33,Chapter And Verse,/song:the-rising,The Rising,16
+33,Chapter And Verse,/song:long-time-comin,Long Time Comin',17
+33,Chapter And Verse,/song:wrecking-ball,Wrecking Ball,18
+34,Spare Parts,/song:for-you,For You,1
+34,Spare Parts,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),2
+34,Spare Parts,/song:fire,Fire,3
+34,Spare Parts,/song:incident-on-57th-street,Incident On 57th Street,4
+34,Spare Parts,/song:roll-of-the-dice,Roll Of The Dice,5
+34,Spare Parts,/song:leap-of-faith,Leap Of Faith,6
+34,Spare Parts,/song:30-days-out,30 Days Out,7
+34,Spare Parts,/song:hungry-heart,Hungry Heart,8
+34,Spare Parts,/song:streets-of-philadelphia,Streets Of Philadelphia,9
+34,Spare Parts,/song:murder-incorporated,Murder Incorporated,10
+34,Spare Parts,/song:thunder-road,Thunder Road,11
+34,Spare Parts,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,12
+34,Spare Parts,/song:straight-time,Straight Time,13
+34,Spare Parts,/song:sinaloa-cowboys,Sinaloa Cowboys,14
+34,Spare Parts,/song:missing,Missing,15
+34,Spare Parts,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,16
+34,Spare Parts,/song:born-in-the-u-s-a,Born In The U.S.A.,17
+34,Spare Parts,/song:spare-parts,Spare Parts,18
+34,Spare Parts,/song:growin-up,Growin' Up,19
+34,Spare Parts,/song:this-hard-land,This Hard Land,21
+34,Spare Parts,/song:the-big-muddy,The Big Muddy,22
+34,Spare Parts,/song:lonesome-day,Lonesome Day,23
+34,Spare Parts,/song:spirit-in-the-night,Spirit In The Night,24
+34,Spare Parts,/song:the-rising,The Rising,25
+34,Spare Parts,/song:what-love-can-do,What Love Can Do,26
+34,Spare Parts,/song:a-night-with-the-jersey-devil,A Night With The Jersey Devil,27
+34,Spare Parts,/song:rocky-ground,Rocky Ground,28
+34,Spare Parts,/song:the-promise,The Promise,29
+36,Live 1975–85,/song:thunder-road,Thunder Road,1
+36,Live 1975–85,/song:adam-raised-a-cain,Adam Raised A Cain,2
+36,Live 1975–85,/song:spirit-in-the-night,Spirit In The Night,3
+36,Live 1975–85,/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",4
+36,Live 1975–85,/song:paradise-by-the-c,"Paradise By The ""C""",5
+36,Live 1975–85,/song:fire,Fire,6
+36,Live 1975–85,/song:growin-up,Growin' Up,7
+36,Live 1975–85,/song:it-s-hard-to-be-a-saint-in-the-city,It's Hard To Be A Saint In The City,8
+36,Live 1975–85,/song:backstreets,Backstreets,9
+36,Live 1975–85,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),10
+36,Live 1975–85,/song:raise-your-hand,Raise Your Hand,11
+36,Live 1975–85,/song:hungry-heart,Hungry Heart,12
+36,Live 1975–85,/song:two-hearts,Two Hearts,13
+36,Live 1975–85,/song:cadillac-ranch,Cadillac Ranch,14
+36,Live 1975–85,/song:you-can-look-but-you-better-not-touch,You Can Look (But You Better Not Touch),15
+36,Live 1975–85,/song:independence-day,Independence Day,16
+36,Live 1975–85,/song:badlands,Badlands,17
+36,Live 1975–85,/song:because-the-night,Because The Night,18
+36,Live 1975–85,/song:candy-s-room,Candy's Room,19
+36,Live 1975–85,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,20
+36,Live 1975–85,/song:racing-in-the-street,Racing In The Street,21
+36,Live 1975–85,/song:this-land-is-your-land,This Land Is Your Land,22
+36,Live 1975–85,/song:nebraska,Nebraska,23
+36,Live 1975–85,/song:johnny-99,Johnny 99,24
+36,Live 1975–85,/song:reason-to-believe,Reason To Believe,25
+36,Live 1975–85,/song:born-in-the-u-s-a,Born In The U.S.A.,26
+36,Live 1975–85,/song:seeds,Seeds,27
+36,Live 1975–85,/song:the-river,The River,28
+36,Live 1975–85,/song:war,War,29
+36,Live 1975–85,/song:darlington-county,Darlington County,30
+36,Live 1975–85,/song:working-on-the-highway,Working On The Highway,31
+36,Live 1975–85,/song:the-promised-land,The Promised Land,32
+36,Live 1975–85,/song:cover-me,Cover Me,33
+36,Live 1975–85,/song:i-m-on-fire,I'm On Fire,34
+36,Live 1975–85,/song:bobby-jean,Bobby Jean,35
+36,Live 1975–85,/song:my-hometown,My Hometown,36
+36,Live 1975–85,/song:born-to-run,Born To Run,37
+36,Live 1975–85,/song:no-surrender,No Surrender,38
+36,Live 1975–85,/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,39
+36,Live 1975–85,/song:jersey-girl,Jersey Girl,40
+37,Chimes Of Freedom EP,/song:tougher-than-the-rest,Tougher Than The Rest,1
+37,Chimes Of Freedom EP,/song:be-true,Be True,2
+37,Chimes Of Freedom EP,/song:chimes-of-freedom,Chimes Of Freedom,3
+37,Chimes Of Freedom EP,/song:born-to-run,Born To Run,4
+38,In Concert/MTV Plugged,/song:red-headed-woman,Red Headed Woman,1
+38,In Concert/MTV Plugged,/song:better-days,Better Days,2
+38,In Concert/MTV Plugged,/song:atlantic-city,Atlantic City,3
+38,In Concert/MTV Plugged,/song:darkness-on-the-edge-of-town,Darkness On The Edge Of Town,4
+38,In Concert/MTV Plugged,/song:man-s-job,Man's Job,5
+38,In Concert/MTV Plugged,/song:human-touch,Human Touch,6
+38,In Concert/MTV Plugged,/song:lucky-town,Lucky Town,7
+38,In Concert/MTV Plugged,/song:i-wish-i-were-blind,I Wish I Were Blind,8
+38,In Concert/MTV Plugged,/song:thunder-road,Thunder Road,9
+38,In Concert/MTV Plugged,/song:light-of-day,Light Of Day,10
+38,In Concert/MTV Plugged,/song:if-i-should-fall-behind,If I Should Fall Behind,11
+38,In Concert/MTV Plugged,/song:living-proof,Living Proof,12
+38,In Concert/MTV Plugged,/song:my-beautiful-reward,My Beautiful Reward,13
+39,Live In New York City,/song:my-love-will-not-let-you-down,My Love Will Not Let You Down,1
+39,Live In New York City,/song:prove-it-all-night,Prove It All Night,2
+39,Live In New York City,/song:two-hearts,Two Hearts,3
+39,Live In New York City,/song:atlantic-city,Atlantic City,4
+39,Live In New York City,/song:mansion-on-the-hill,Mansion On The Hill,5
+39,Live In New York City,/song:the-river,The River,6
+39,Live In New York City,/song:youngstown,Youngstown,7
+39,Live In New York City,/song:murder-incorporated,Murder Incorporated,8
+39,Live In New York City,/song:badlands,Badlands,9
+39,Live In New York City,/song:out-in-the-street,Out In The Street,10
+39,Live In New York City,/song:born-to-run,Born To Run,11
+39,Live In New York City,/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,12
+39,Live In New York City,/song:land-of-hope-and-dreams,Land Of Hope And Dreams,13
+39,Live In New York City,/song:american-skin-41-shots,American Skin (41 Shots),14
+39,Live In New York City,/song:lost-in-the-flood,Lost In The Flood,15
+39,Live In New York City,/song:born-in-the-u-s-a,Born In The U.S.A.,16
+39,Live In New York City,/song:don-t-look-back,Don't Look Back,17
+39,Live In New York City,/song:jungleland,Jungleland,18
+39,Live In New York City,/song:ramrod,Ramrod,19
+39,Live In New York City,/song:if-i-should-fall-behind,If I Should Fall Behind,20
+40,"Hammersmith Odeon, London '75",/song:thunder-road,Thunder Road,1
+40,"Hammersmith Odeon, London '75",/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,2
+40,"Hammersmith Odeon, London '75",/song:spirit-in-the-night,Spirit In The Night,3
+40,"Hammersmith Odeon, London '75",/song:lost-in-the-flood,Lost In The Flood,4
+40,"Hammersmith Odeon, London '75",/song:she-s-the-one,She's The One,5
+40,"Hammersmith Odeon, London '75",/song:born-to-run,Born To Run,6
+40,"Hammersmith Odeon, London '75",/song:the-e-street-shuffle,The E Street Shuffle,7
+40,"Hammersmith Odeon, London '75",/song:it-s-hard-to-be-a-saint-in-the-city,It's Hard To Be A Saint In The City,8
+40,"Hammersmith Odeon, London '75",/song:backstreets,Backstreets,9
+40,"Hammersmith Odeon, London '75",/song:kitty-s-back,Kitty's Back,10
+40,"Hammersmith Odeon, London '75",/song:jungleland,Jungleland,11
+40,"Hammersmith Odeon, London '75",/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),12
+40,"Hammersmith Odeon, London '75",/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",13
+40,"Hammersmith Odeon, London '75",/song:detroit-medley,Detroit Medley,14
+40,"Hammersmith Odeon, London '75",/song:for-you,For You,15
+40,"Hammersmith Odeon, London '75",/song:quarter-to-three,Quarter To Three,16
+41,Live In Dublin,/song:atlantic-city,Atlantic City,1
+41,Live In Dublin,/song:old-dan-tucker,Old Dan Tucker,2
+41,Live In Dublin,/song:eyes-on-the-prize,Eyes On The Prize,3
+41,Live In Dublin,/song:jesse-james,Jesse James,4
+41,Live In Dublin,/song:further-on-up-the-road,Further On (Up The Road),5
+41,Live In Dublin,/song:o-mary-don-t-you-weep,O Mary Don't You Weep,6
+41,Live In Dublin,/song:erie-canal,Erie Canal,7
+41,Live In Dublin,/song:if-i-should-fall-behind,If I Should Fall Behind,8
+41,Live In Dublin,/song:my-oklahoma-home,My Oklahoma Home,9
+41,Live In Dublin,/song:highway-patrolman,Highway Patrolman,10
+41,Live In Dublin,/song:mrs-mcgrath,Mrs. McGrath,11
+41,Live In Dublin,/song:how-can-a-poor-man-stand-such-times-and-live,How Can A Poor Man Stand Such Times And Live?,12
+41,Live In Dublin,/song:jacob-s-ladder,Jacob's Ladder,13
+41,Live In Dublin,/song:long-time-comin,Long Time Comin',14
+41,Live In Dublin,/song:open-all-night,Open All Night,15
+41,Live In Dublin,/song:pay-me-my-money-down,Pay Me My Money Down,16
+41,Live In Dublin,/song:growin-up,Growin' Up,17
+41,Live In Dublin,/song:when-the-saints-go-marching-in,When The Saints Go Marching In,18
+41,Live In Dublin,/song:this-little-light-of-mine,This Little Light Of Mine,19
+41,Live In Dublin,/song:american-land,American Land,20
+41,Live In Dublin,/song:blinded-by-the-light,Blinded By The Light,21
+41,Live In Dublin,/song:love-of-the-common-people,Love Of The Common People,22
+41,Live In Dublin,/song:we-shall-overcome,We Shall Overcome,23
+42,Magic Tour Highlights,/song:always-a-friend,Always A Friend,1
+42,Magic Tour Highlights,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,2
+42,Magic Tour Highlights,/song:turn-turn-turn-to-everything-there-is-a-season,Turn! Turn! Turn! (To Everything There Is A Season),3
+42,Magic Tour Highlights,/song:4th-of-july-asbury-park-sandy,"4th Of July, Asbury Park (Sandy)",4
+43,Springsteen On Broadway,/song:growin-up,Growin' Up,1
+43,Springsteen On Broadway,/song:my-hometown,My Hometown,2
+43,Springsteen On Broadway,/song:my-father-s-house,My Father's House,3
+43,Springsteen On Broadway,/song:the-wish,The Wish,4
+43,Springsteen On Broadway,/song:thunder-road,Thunder Road,5
+43,Springsteen On Broadway,/song:the-promised-land,The Promised Land,6
+43,Springsteen On Broadway,/song:born-in-the-u-s-a,Born In The U.S.A.,7
+43,Springsteen On Broadway,/song:tenth-avenue-freeze-out,Tenth Avenue Freeze-Out,8
+43,Springsteen On Broadway,/song:tougher-than-the-rest,Tougher Than The Rest,9
+43,Springsteen On Broadway,/song:brilliant-disguise,Brilliant Disguise,10
+43,Springsteen On Broadway,/song:long-time-comin,Long Time Comin',11
+43,Springsteen On Broadway,/song:the-ghost-of-tom-joad,The Ghost Of Tom Joad,12
+43,Springsteen On Broadway,/song:the-rising,The Rising,13
+43,Springsteen On Broadway,/song:dancing-in-the-dark,Dancing In The Dark,14
+43,Springsteen On Broadway,/song:land-of-hope-and-dreams,Land Of Hope And Dreams,15
+43,Springsteen On Broadway,/song:born-to-run,Born To Run,16
+44,Western Stars (Songs From The Film),/song:hitch-hikin,Hitch Hikin',1
+44,Western Stars (Songs From The Film),/song:the-wayfarer,The Wayfarer,2
+44,Western Stars (Songs From The Film),/song:tucson-train,Tucson Train,3
+44,Western Stars (Songs From The Film),/song:western-stars,Western Stars,4
+44,Western Stars (Songs From The Film),/song:sleepy-joe-s-cafe,Sleepy Joe's Café,5
+44,Western Stars (Songs From The Film),/song:drive-fast-the-stuntman,Drive Fast (The Stuntman),6
+44,Western Stars (Songs From The Film),/song:chasin-wild-horses,Chasin' Wild Horses,7
+44,Western Stars (Songs From The Film),/song:sundown,Sundown,8
+44,Western Stars (Songs From The Film),/song:somewhere-north-of-nashville,Somewhere North Of Nashville,9
+44,Western Stars (Songs From The Film),/song:stones,Stones,10
+44,Western Stars (Songs From The Film),/song:there-goes-my-miracle,There Goes My Miracle,11
+44,Western Stars (Songs From The Film),/song:hello-sunshine,Hello Sunshine,12
+44,Western Stars (Songs From The Film),/song:moonlight-motel,Moonlight Motel,13
+44,Western Stars (Songs From The Film),/song:rhinestone-cowboy,Rhinestone Cowboy,14
+45,The Legendary 1979 No Nukes Concerts,/song:prove-it-all-night,Prove It All Night,1
+45,The Legendary 1979 No Nukes Concerts,/song:badlands,Badlands,2
+45,The Legendary 1979 No Nukes Concerts,/song:the-promised-land,The Promised Land,3
+45,The Legendary 1979 No Nukes Concerts,/song:the-river,The River,4
+45,The Legendary 1979 No Nukes Concerts,/song:sherry-darling,Sherry Darling,5
+45,The Legendary 1979 No Nukes Concerts,/song:thunder-road,Thunder Road,6
+45,The Legendary 1979 No Nukes Concerts,/song:jungleland,Jungleland,7
+45,The Legendary 1979 No Nukes Concerts,/song:rosalita-come-out-tonight,Rosalita (Come Out Tonight),8
+45,The Legendary 1979 No Nukes Concerts,/song:born-to-run,Born To Run,9
+45,The Legendary 1979 No Nukes Concerts,/song:stay,Stay,10
+45,The Legendary 1979 No Nukes Concerts,/song:detroit-medley,Detroit Medley,11
+45,The Legendary 1979 No Nukes Concerts,/song:quarter-to-three,Quarter To Three,12
+45,The Legendary 1979 No Nukes Concerts,/song:rave-on,Rave On,13

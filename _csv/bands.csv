@@ -1,0 +1,248 @@
+band_id,band_url,band_name,num_performances
+1,/relation:alabama-shakes,Alabama Shakes,1
+2,/relation:the-alliance-singers,The Alliance Singers,11
+3,/relation:the-allstars,The Allstars,1
+4,/relation:arcade-fire,Arcade Fire,1
+5,/relation:artists-united-against-apartheid,Artists United Against Apartheid,0
+6,/relation:the-asbury-jukes,The Asbury Jukes,17
+7,/relation:atlantic-city-expressway,Atlantic City Expressway,1
+8,/relation:the-australian-urban-orchestra,The Australian Urban Orchestra,7
+9,/relation:the-avatar-strings,The Avatar Strings,0
+10,/relation:the-bacon-brothers,The Bacon Brothers,1
+11,/relation:the-badboys,The Badboys,1
+12,/relation:the-bank-street-blues-band,The Bank Street Blues Band,2
+13,/relation:the-beach-boys,The Beach Boys,1
+14,/relation:beaver-brown,Beaver Brown,12
+15,/relation:the-beaver-brown-band,The Beaver Brown Band,0
+16,/relation:the-big-bad-bobby-williams-band,The Big Bad Bobby Williams Band,4
+17,/relation:billy-rancher-the-unreal-gods,Billy Rancher & The Unreal Gods,0
+18,/relation:the-blackberry-booze-band,The Blackberry Booze Band,5
+19,/relation:the-blasters,The Blasters,1
+20,/relation:bleachers,Bleachers,2
+21,/relation:bobby-bandiera-band,The Bobby Bandiera Band,31
+22,/relation:bob-seger-the-silver-bullet-band,Bob Seger & The Silver Bullet Band,0
+23,/relation:boccigalupe-the-badboys,Boccigalupe & The Badboys,4
+24,/relation:bon-iver,Bon Iver,0
+25,/relation:bon-jovi,Bon Jovi,6
+26,/relation:booker-t-the-m-g-s,Booker T & The M.G.'s,1
+27,/relation:brian-kirk-the-jirks,Brian Kirk & The Jirks,1
+28,/relation:bright-eyes,Bright Eyes,4
+29,/relation:the-bruce-springsteen-band,The Bruce Springsteen Band,82
+30,/relation:bruce-springsteen-the-e-street-band,Bruce Springsteen & The E Street Band,0
+31,/relation:bruce-springsteen-the-other-band,Bruce Springsteen & The Other Band,0
+32,/relation:bruce-springsteen-the-seeger-sessions-band,Bruce Springsteen & The Seeger Sessions Band,0
+33,/relation:bruce-springsteen-the-sessions-band,Bruce Springsteen & The Sessions Band,0
+34,/relation:the-byrds,The Byrds,1
+35,/relation:bystander,Bystander,1
+36,/relation:the-castiles,The Castiles,118
+37,/relation:cats-on-a-smooth-surface,Cats On A Smooth Surface,33
+38,/relation:cbs-orchestra,The CBS Orchestra,4
+39,/relation:the-chambers-brothers,The Chambers Brothers,1
+40,/relation:the-cherubs,The Cherubs,1
+41,/relation:the-chicks,The Chicks,0
+42,/relation:child,Child,47
+43,/relation:clarence-clemons-temple-of-soul,Clarence Clemons & Temple Of Soul,0
+44,/relation:clarence-clemons-the-red-bank-rockers,Clarence Clemons & The Red Bank Rockers,2
+45,/relation:clarence-clemons-the-temple-of-soul,Clarence Clemons & The Temple Of Soul,0
+46,/relation:the-coasters,The Coasters,1
+47,/relation:coldplay,Coldplay,1
+48,/relation:the-composure,The Composure,2
+49,/relation:cooper-and-koo-strings,Cooper + Koo Strings,1
+50,/relation:crazy-horse,Crazy Horse,2
+51,/relation:crosby-stills-nash,"Crosby, Stills & Nash",0
+52,/relation:crosby-stills-nash-young,"Crosby, Stills, Nash & Young",1
+53,/relation:csn,CSN,0
+54,/relation:csny,CSNY,0
+55,/relation:the-david-johansen-group,The David Johansen Group,1
+56,/relation:david-sancious-tone,David Sancious & Tone,0
+57,/relation:the-delevantes,The Delevantes,1
+58,/relation:the-del-fuegos,The Del Fuegos,1
+59,/relation:the-diamonds,The Diamonds,3
+60,/relation:the-dictators,The Dictators,0
+61,/relation:the-disciples-of-soul,The Disciples Of Soul,5
+62,/relation:dixie-chicks,Dixie Chicks,2
+63,/relation:the-drifters,The Drifters,1
+64,/relation:dropkick-murphys,Dropkick Murphys,3
+65,/relation:dr-zoom-the-sonic-boom,Dr. Zoom & The Sonic Boom,2
+66,/relation:the-dukes,The Dukes,1
+67,/relation:earth,Earth,22
+68,/relation:the-eddie-testa-band,The Eddie Testa Band,1
+69,/relation:elvis-costello-the-imposters,Elvis Costello & The Imposters,1
+70,/relation:the-epidemics,The Epidemics,1
+71,/relation:the-e-street-band,The E Street Band,1951
+72,/relation:the-e-street-choir,The E Street Choir,342
+73,/relation:the-e-street-horns,The E Street Horns,253
+74,/relation:eurythmics,Eurythmics,2
+75,/relation:the-exciters,The Exciters,1
+76,/relation:the-fabulous-greaseband,The Fabulous Greaseband,3
+77,/relation:the-fairlanes,The Fairlanes,1
+78,/relation:the-fanatics,The Fanatics,2
+79,/relation:the-fat-boys,The Fat Boys,0
+80,/relation:elysian-fields,"Fields, Elysian",1
+81,/relation:flo-and-eddie,Flo and Eddie,7
+82,/relation:the-four-seasons,The Four Seasons,1
+83,/relation:four-tops,Four Tops,1
+84,/relation:the-friendly-enemies,The Friendly Enemies,3
+85,/relation:the-frontstreet-runners,The Frontstreet Runners,5
+86,/relation:funky-dusty-the-soul-broom,Funky Dusty & The Soul Broom,1
+87,/relation:the-furious-five,The Furious Five,0
+88,/relation:the-gaslight-anthem,The Gaslight Anthem,3
+89,/relation:the-gigolos,The Gigolos,0
+90,/relation:the-godsons-of-soul,The Godsons Of Soul,0
+91,/relation:the-gotham-playboys,The Gotham Playboys,4
+92,/relation:graham-parker-the-rumour,Graham Parker & The Rumour,0
+93,/relation:grandmaster-flash-the-furious-five,Grandmaster Flash & The Furious Five,1
+94,/relation:hall-oates,Hall & Oates,2
+95,/relation:the-heartbreakers,The Heartbreakers,0
+96,/relation:heavy-trucking,Heavy Trucking,1
+97,/relation:hetty-schneider-band,Hetty Schneider Band,1
+98,/relation:hootie-the-blowfish,Hootie & The Blowfish,1
+99,/relation:the-horns-of-love,The Horns Of Love,70
+100,/relation:house-of-blues-band,House Of Blues Band,0
+101,/relation:the-houserockers,The Houserockers,0
+102,/relation:huey-lewis-the-news,Huey Lewis & The News,0
+103,/relation:the-iguanas,The Iguanas,1
+104,/relation:the-imposters,The Imposters,0
+105,/relation:the-impressions,The Impressions,1
+106,/relation:indigo-girls,Indigo Girls,1
+107,/relation:iron-city-houserockers,Iron City Houserockers,2
+108,/relation:the-jacksons,The Jacksons,0
+109,/relation:jeff-lubin-band,Jeff Lubin Band,1
+110,/relation:jersey-artists-for-mankind,Jersey Artists For Mankind,0
+111,/relation:jersey-artists-for-mankind-choir,Jersey Artists For Mankind Choir,0
+112,/relation:jimmy-the-gigolos,Jimmy & The Gigolos,1
+113,/relation:jimmy-the-mustangs,Jimmy & The Mustangs,1
+114,/relation:the-jirks,The Jirks,0
+115,/relation:jobonanno-the-godsons-of-soul,JoBonanno & The Godsons Of Soul,3
+116,/relation:joe-d-urso-stone-caravan,Joe D'Urso & Stone Caravan,0
+117,/relation:joe-grushecky-no-spring-chickens,Joe Grushecky & No Spring Chickens,1
+118,/relation:joe-grushecky-the-houserockers,Joe Grushecky & The Houserockers,31
+119,/relation:joe-grushecky-the-iron-city-rockers,Joe Grushecky & The Iron City Rockers,0
+120,/relation:john-cafferty-the-beaver-brown-band,John Cafferty & The Beaver Brown Band,0
+121,/relation:john-eddie-the-frontstreet-runners,John Eddie & The Frontstreet Runners,0
+122,/relation:the-joyce-garrett-singers,The Joyce Garrett Singers,6
+123,/relation:the-joyful-noyze,The Joyful Noyze,2
+124,/relation:j-t-bowen-the-sensational-soul-cruisers,J.T. Bowen & The Sensational Soul Cruisers,1
+125,/relation:the-jukes,The Jukes,0
+126,/relation:killer-joe,Killer Joe,1
+127,/relation:the-killers,The Killers,1
+128,/relation:the-kinks,The Kinks,1
+129,/relation:the-knack,The Knack,1
+130,/relation:ladysmith-black-mambazo,Ladysmith Black Mambazo,2
+131,/relation:the-latin-rascals,The Latin Rascals,0
+132,/relation:little-steven-the-disciples-of-soul,Little Steven & The Disciples Of Soul,4
+133,/relation:lord-gunner-group,Lord Gunner Group,1
+134,/relation:lost-highway-band,Lost Highway Band,1
+135,/relation:the-low-anthem,The Low Anthem,1
+136,/relation:the-magic-string-section,The Magic String Section,0
+137,/relation:malopoets,Malopoets,0
+138,/relation:malurt,Malurt,1
+139,/relation:mama-tried,Mama Tried,1
+140,/relation:marah,Marah,4
+141,/relation:the-mates,The Mates,1
+142,/relation:the-max-weinberg-big-band,The Max Weinberg Big Band,2
+143,/relation:the-m-g-s,The M.G.'s,0
+144,/relation:the-miami-horns,The Miami Horns,76
+145,/relation:midnight-thunder,Midnight Thunder,1
+146,/relation:the-midtown-men,The Midtown Men,1
+147,/relation:the-mighty-hornets,The Mighty Hornets,1
+148,/relation:mile-high-band,Mile High Band,1
+149,/relation:mr-reality,Mr. Reality,1
+150,/relation:mumford-sons,Mumford & Sons,2
+151,/relation:the-mustangs,The Mustangs,0
+152,/relation:nashville-string-machine,Nashville String Machine,0
+153,/relation:the-national,The National,1
+154,/relation:native-american-indian-cultural-alliance,Native American Indian Cultural Alliance,1
+155,/relation:neil-young-crazy-horse,Neil Young & Crazy Horse,1
+156,/relation:new-orleans-blues-department,New Orleans Blues Department,1
+157,/relation:the-news,The News,1
+158,/relation:new-york-city-labor-chorus,New York City Labor Chorus,1
+159,/relation:new-york-string-section,New York String Section,0
+160,/relation:norman-seldin-the-joyful-noyze,Norman Seldin & The Joyful Noyze,0
+161,/relation:north-street-music-strings,North Street Music strings,3
+162,/relation:no-spring-chickens,No Spring Chickens,0
+163,/relation:nyc-hit-squad,NYC Hit Squad,1
+164,/relation:odin,Odin,1
+165,/relation:the-old-dog-band,The Old Dog Band,1
+166,/relation:orchestra-of-st-luke-s,Orchestra of St. Luke's,1
+167,/relation:roma-sinfonietta-orchestra,Orchestra Roma Sinfonietta,3
+168,/relation:the-other-band,The Other Band,0
+169,/relation:the-outcry,The Outcry,1
+170,/relation:panther-club-band,Panther Club Band,1
+171,/relation:the-parkington-sisters,The Parkington Sisters,1
+172,/relation:pegasus,Pegasus,1
+173,/relation:peter-hartung-the-remakes,Peter Hartung & The Remakes,1
+174,/relation:phish,Phish,1
+175,/relation:the-pointer-sisters,The Pointer Sisters,0
+176,/relation:preservation-hall-jazz-band,Preservation Hall Jazz Band,1
+177,/relation:the-pretenders,The Pretenders,1
+178,/relation:prince-the-revolution,Prince & The Revolution,0
+179,/relation:psychotic-blues-band,Psychotic Blues Band,1
+180,/relation:ramones,Ramones,0
+181,/relation:the-rascals,The Rascals,1
+182,/relation:the-red-bank-rockers,The Red Bank Rockers,8
+183,/relation:the-red-hot-mammas,The Red Hot Mammas,4
+184,/relation:r-e-m,R.E.M.,6
+185,/relation:the-remakes,The Remakes,0
+186,/relation:the-revolution,The Revolution,1
+187,/relation:the-rivertown-kids,The Rivertown Kids,0
+188,/relation:the-rock-bottom-remainders,The Rock Bottom Remainders,1
+189,/relation:the-rogues,The Rogues,6
+190,/relation:the-rolling-stones,The Rolling Stones,3
+191,/relation:the-roots,The Roots,4
+192,/relation:the-rumour,The Rumour,0
+193,/relation:run-d-m-c,Run-D.M.C.,0
+194,/relation:the-sacred-hearts,The Sacred Hearts,1
+195,/relation:sechaba-cultural-singers,Sechaba Cultural Singers,0
+196,/relation:the-sensational-soul-cruisers,The Sensational Soul Cruisers,0
+197,/relation:the-sessions-band,The Sessions Band,78
+198,/relation:the-shakes,The Shakes,1
+199,/relation:the-shirleys,The Shirleys,0
+200,/relation:the-shots,The Shots,1
+201,/relation:the-silver-bullet-band,The Silver Bullet Band,1
+202,/relation:simon-garfunkel,Simon & Garfunkel,1
+203,/relation:social-distortion,Social Distortion,1
+204,/relation:solar-circus,Solar Circus,1
+205,/relation:the-sonic-people,The Sonic People,3
+206,/relation:soul-asylum,Soul Asylum,1
+207,/relation:south-community-choir-of-asbury-park,South Community Choir of Asbury Park,2
+208,/relation:southside-johnny-the-asbury-jukes,Southside Johnny & The Asbury Jukes,5
+209,/relation:stand-and-deliver,Stand And Deliver,1
+210,/relation:the-staple-singers,The Staple Singers,1
+211,/relation:steel-mill,Steel Mill,59
+212,/relation:steel-mill-retro,Steel Mill Retro,0
+213,/relation:steve-earle-the-dukes,Steve Earle & The Dukes,1
+214,/relation:stone-caravan,Stone Caravan,0
+215,/relation:stone-hill-strings,Stone Hill Strings,0
+216,/relation:stray-cats,Stray Cats,1
+217,/relation:suicide,Suicide,0
+218,/relation:the-sundance-blues-band,The Sundance Blues Band,21
+219,/relation:the-swingin-medallions,The Swingin' Medallions,1
+220,/relation:the-tangiers-blues-band,The Tangiers Blues Band,2
+221,/relation:tcb-band,TCB Band,1
+222,/relation:temple-of-soul,Temple Of Soul,2
+223,/relation:the-temptations,The Temptations,1
+224,/relation:the-sessions-band-studio,The Sessions Band - Studio,0
+225,/relation:the-sessions-band-tour,The Sessions Band - Tour,0
+226,/relation:the-terrorists-of-love,The Terrorists Of Love,1
+227,/relation:timepiece,Timepiece,2
+228,/relation:tim-mcloone-the-shirleys,Tim McLoone & The Shirleys,3
+229,/relation:tom-petty-the-heartbreakers,Tom Petty & The Heartbreakers,2
+230,/relation:tone,Tone,1
+231,/relation:tony-toni-tone,Tony! Toni! Toné!,1
+232,/relation:the-trews,The Trews,1
+233,/relation:the-tunnel-of-love-horns,The Tunnel Of Love Horns,0
+234,/relation:u2,U2,6
+235,/relation:unione-musicisti-di-roma,Unione Musicisti Di Roma,0
+236,/relation:the-unreal-gods,The Unreal Gods,1
+237,/relation:usa-for-africa,USA For Africa,0
+238,/relation:via-afrika,Via Afrika,0
+239,/relation:victorious-gospel-choir,Victorious Gospel Choir,3
+240,/relation:the-wallflowers,The Wallflowers,2
+241,/relation:the-waters,The Waters,0
+242,/relation:the-who,The Who,2
+243,/relation:the-world-s-most-dangerous-band,The World's Most Dangerous Band,7
+244,/relation:x-men,X-Men,1
+245,/relation:zac-brown-band,Zac Brown Band,2
+246,/relation:the-zoomettes,The Zoomettes,2
+247,/relation:zz-top,ZZ Top,1

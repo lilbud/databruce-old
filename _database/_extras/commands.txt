@@ -1,0 +1,2 @@
+if setlist table gets screwed up (and manual deletion is needed):
+INSERT INTO NEW_SETLISTS (event_date, event_url, song_url, song_name, set_type, song_num_in_set, song_num) SELECT event_date, event_url, song_url, song_name, set_type, song_num_in_set, song_num FROM SETLISTS;
