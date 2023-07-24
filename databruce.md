@@ -104,4 +104,4 @@ Might even write up a fuller guide on the finer points of this db at some point,
 
 That about sums it up in far too many words. This project is almost always a work in progress, so things might change as time goes on. 
 
-Lilbud (July 2022)
+Lilbud (July 2023)
